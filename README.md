@@ -1,6 +1,6 @@
 # Shopify-Data-Challenge-Summer-2022
 
-The task was to identify and calculate a metric to report for this dataset.
+The task was to identify and calculate a metric to report for [this](https://docs.google.com/spreadsheets/d/16i38oonuX1y1g7C_UAmiK9GkY7cS-64DfiDMNiR41LM/edit#gid=0) dataset.
 
 Two metrics were calculated: 
 - total order_amount per shop_id (and total items )
