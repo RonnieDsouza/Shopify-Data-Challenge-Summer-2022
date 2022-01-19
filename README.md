@@ -15,8 +15,8 @@ After calculating, we can see that **shop_id 42 has the highest total order amou
 
 ### Order amount per payment_method
 Once again, the graph shows us that credit cards have higher order amounts (and total_items) compared to cash and debit. 
-![Graph of order_amounts per shop](https://github.com/RonnieDsouza/Shopify-Data-Challenge-Summer-2022/blob/main/images/orders_per_payment_method.PNG "Order Amount per Payment Methods")
+![Graph of order_amounts per shop](https://github.com/RonnieDsouza/Shopify-Data-Challenge-Summer-2022/blob/main/images/orders_per_payment_method.PNG "Order Amount per Payment Methods")  
 
-This tells us that the **majority of transactions occour using credit cards**
+This tells us that the **majority of transactions occour using credit cards**.  
 ![Order Amount per Payment Methods Values](https://github.com/RonnieDsouza/Shopify-Data-Challenge-Summer-2022/blob/main/images/orders_per_payment_method_calc.PNG "Order Amount per Payment Methods")
 
